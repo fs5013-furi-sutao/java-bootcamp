@@ -22,8 +22,6 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/home/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/18-code-that-is-easy-to-read-and-easy-to-modify</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/docs/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/20-duplicate-process-like-copy-and-paste</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/21-name-battler</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/docs/basic/Test0101.PositiveNegative/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/docs/basic/Test0104.LeapYear/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/docs/basic/Test0103.TenOrTwenty/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -105,5 +103,7 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/55-hit-and-blow</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/29-array-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/53-lie-comment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/21-name-battler</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/20-duplicate-process-like-copy-and-paste</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/primary/19-add-comments-to-processing-chunks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
