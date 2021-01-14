@@ -26,8 +26,10 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/26-comment-to-variable</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/12-vscode-shortcut-key</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/24-do-not-leave-unnecessary-comment-out</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/04-abstract-class-method</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/14-vscode-shortcut-key-list</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/27-array</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/18-enum-constructor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/25-code-smell</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/13-vscode-basic-shortcut-key</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/28-multidimendional-array</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -104,9 +106,7 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/07-association-aggregation-composition</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/10-cueue-management-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/20-javadoc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/04-abstract-class-method</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/13-rank-management-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/18-enum-constructor</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/16-tramp-game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/12-wrapper-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/15-bigdecimal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -129,8 +129,8 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/about/changelog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/11-date-manipuration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/about/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/16-anonymous-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/15-nested-class-and-inner-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/09-delegation</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/11-dependency-injection</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/16-anonymous-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
