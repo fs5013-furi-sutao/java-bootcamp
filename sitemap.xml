@@ -99,6 +99,7 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/04-abstract-class-method</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/master/11-generics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/master/14-strategy-pattern</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/master/08-lambda-expression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/06-getter-and-setter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/07-association-aggregation-composition</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/16-anonymous-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -112,7 +113,6 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/16-tramp-game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/12-wrapper-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/15-bigdecimal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/master/08-lambda-expression</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/master/01-exception-type-and-way-to-catch</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/17-enum-class</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/mid/03-instance-method</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
