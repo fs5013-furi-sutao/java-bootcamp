@@ -3,6 +3,7 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/about/side-story-about-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/intro/05-whats-scoop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/39-number-guess-game</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/11-vscode-quick-fix</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/about/how-to-start-chatwork</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/about/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/advanced/02-override</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,7 +35,6 @@
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/08-good-variable-name</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/09-named-boolean-variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/10-vscode-auto-formatter</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/11-vscode-quick-fix</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/12-vscode-shortcut-key</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/13-vscode-basic-shortcut-key</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://fs5013-furi-sutao.github.io/java-bootcamp/java-bootcamp/entry/15-text-operations</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
